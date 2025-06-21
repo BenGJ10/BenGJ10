@@ -7,7 +7,7 @@ Upskilling myself on building scalable, data-driven solutions and the deployment
 ![](https://komarev.com/ghpvc/?username=bengj10&color=0e75b6&style=flat)
 <br>
 
-## Get in touch with me: 
+## Connect with me: 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/bengj10) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/bengj10) [![email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bengj1015@gmail.com) [![LeetCode](https://img.shields.io/badge/LeetCode-%23FFA116.svg?style=for-the-badge&logo=LeetCode&logoColor=white)](https://leetcode.com/bengj1015/)
 
 
@@ -25,14 +25,6 @@ Upskilling myself on building scalable, data-driven solutions and the deployment
 
 - Tools & Frameworks: Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn, TensorFlow, PyTorch, Hugging Face, Docker, Kubernetes, FastAPI, Flask, Streamlit, Git, MLflow, Airflow
 
-
-## My Progress so far:
-![](https://github-readme-stats.vercel.app/api?username=BenGJ10&theme=gotham&hide_border=false&include_all_commits=false&count_private=false)<br/>
-<br>
-![](https://nirzak-streak-stats.vercel.app/?user=BenGJ10&theme=gotham&hide_border=false)<br/>
-<br>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=BenGJ10&theme=gotham&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-<br>
 
 ## I'm planning to:
 
