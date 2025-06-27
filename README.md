@@ -20,13 +20,13 @@ Upskilling myself on building scalable, data-driven solutions and the deployment
   
 - Databases: MySQL, SQLite, MongoDB
   
-- Data Science & Machine Learning: Proficient in ML algorithms, exploratory data analysis, data preprocessing, and model evaluation, model deployment
+- Data Science & Machine Learning: ML algorithms, Exploratory Data Analysis, Data Preprocessing, Model Evaluation, Model Deployment
 
-- Cloud Technologies: Hands-on experience with AWS services
+- Cloud Technologies: Hands-on experience with AWS services like S3, EC2, ECR, and more
 
-- Tools & Frameworks: Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn, TensorFlow, PyTorch, Hugging Face, Docker, Kubernetes, FastAPI, Flask, Streamlit, Git, MLflow, Airflow
+- Tools & Frameworks: Pandas, NumPy, Matplotlib, Seaborn, Plotly, Scikit-learn, TensorFlow, PyTorch, Hugging Face, Docker, FastAPI, Flask, Streamlit, Git, MLflow
 
 
 ## I'm planning to:
 
-I'm dedicated to advancing my expertise in MLOps and LLMs, focusing on automating ML pipelines, optimizing model performance, and exploring innovative AI solutions. I'm eager to contribute to open-source projects and collaborate on cutting-edge technologies in Data Science and AI.
+I'm dedicated to advancing my expertise in MLOps and LLMs, focusing on automating ML pipelines, optimizing model performance, and exploring innovative AI-ML solutions. I'm eager to contribute to open-source projects and collaborate on cutting-edge technologies in Data Science and AI.
