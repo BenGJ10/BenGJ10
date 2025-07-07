@@ -18,13 +18,15 @@ Upskilling myself on building scalable, data-driven solutions and the deployment
 
 - Data Structures & Algorithms: Strong problem-solving skills with a solid foundation in DSA
   
-- Databases: MySQL, SQLite, MongoDB
+- Databases: MySQL, JDBC, MongoDB
   
 - Data Science & Machine Learning: ML algorithms, Exploratory Data Analysis, Data Preprocessing, Model Evaluation, Model Deployment
 
 - Cloud Technologies: Hands-on experience with AWS services like S3, EC2, ECR, and more
 
-- Tools & Frameworks: Pandas, NumPy, Matplotlib, Seaborn, Plotly, Scikit-learn, TensorFlow, PyTorch, Hugging Face, Docker, FastAPI, Flask, Streamlit, Git, MLflow
+- Tools & Frameworks: Pandas, NumPy, Matplotlib, Seaborn, Plotly, Scikit-learn,  Docker, FastAPI, Flask, Streamlit, Git, MLflow, JavaFX
+
+- Development Tools & Platforms: Git & GitHub, IntelliJ IDEA, Visual Studio Code, Anaconda, Jupyter Notebook, Hugging Face Hub, Scene Builder
 
 
 ## I'm planning to:
