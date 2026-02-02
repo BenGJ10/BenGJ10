@@ -60,14 +60,11 @@ bridging software engineering, cloud operations, and machine learning
 <h3 align="center">My GitHub Stats  <img src="https://media.giphy.com/media/3o7TKtnuHOHHUjR38Y/giphy.gif" width="18px" /></h3>
 
 <p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=bengj10&show_icons=true&theme=tokyonight&hide_border=true" 
-    height="170"
-  />
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=bengj10&layout=compact&theme=tokyonight&hide_border=true" 
-    height="170"
-  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bengj10&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
+</p>
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=bengj10&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ff6b6b&area=true&area_color=58a6ff&hide_border=true&custom_title=Contribution%20Graph" width="95%"/>
 </p>
 
 <p align="center">
