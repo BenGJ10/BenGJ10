@@ -83,7 +83,7 @@ bridging software engineering, cloud operations, and machine learning
   <a href="mailto:bengj1015@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://leetcode.com/bengj1015/">
+  <a href="https://leetcode.com/bengj10/">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" />
   </a>
   <a href="https://kaggle.com/bengj10">
