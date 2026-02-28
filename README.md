@@ -96,7 +96,7 @@ bridging software engineering, cloud operations, and machine learning
 ━━━━━━━━━━━━━━━━━━━━
 </p>
 
-<h3 align="center">I'm Currently Focus on</h3>
+<h3 align="center">I'm Currently Focusing on</h3>
 
 <p align="center">
   AWS Certifications <b>|</b>
