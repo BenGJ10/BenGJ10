@@ -57,6 +57,24 @@ bridging software engineering, cloud operations, and machine learning
 ━━━━━━━━━━━━━━━━━━━━
 </p>
 
+<h3 align="center">My Certifications </h3>
+
+<div align="center">
+
+| Certification | Issuer | Valid Till |
+|---------------|--------|------------|
+| **Developer Associate** | AWS | Feb 2029 |
+| **Solutions Architect Associate** | AWS | Dec 2028 |
+| **Cloud Practitioner** | AWS | Aug 2028 |
+
+</div>
+
+---
+
+<p align="center">
+━━━━━━━━━━━━━━━━━━━━
+</p>
+
 <h3 align="center">My GitHub Stats  <img src="https://media.giphy.com/media/3o7TKtnuHOHHUjR38Y/giphy.gif" width="18px" /></h3>
 
 <p align="center">
