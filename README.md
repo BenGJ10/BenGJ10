@@ -61,15 +61,13 @@ bridging software engineering, cloud operations, and machine learning
 
 <div align="center">
 
-| Certification | Issuer | Valid Till |
-|---------------|--------|------------|
-| **Developer Associate** | AWS | Feb 2029 |
-| **Solutions Architect Associate** | AWS | Dec 2028 |
-| **Cloud Practitioner** | AWS | Aug 2028 |
+| Certification | Valid Till |
+|---------------|------------|
+| **AWS** Developer Associate | Feb 2029 |
+| **AWS** Solutions Architect Associate | Dec 2028 |
+| **AWS** Cloud Practitioner | Aug 2028 |
 
 </div>
-
----
 
 <p align="center">
 ━━━━━━━━━━━━━━━━━━━━
@@ -89,7 +87,7 @@ bridging software engineering, cloud operations, and machine learning
 ━━━━━━━━━━━━━━━━━━━━
 </p>
 
-<h3 align="center">Connect With Me Through</h3>
+<h3 align="center">Let's Connect</h3>
 
 <p align="center">
   <a href="https://instagram.com/bengj10">
