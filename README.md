@@ -60,7 +60,7 @@ bridging software engineering, cloud operations, and machine learning
 <h3 align="center">My GitHub Stats  <img src="https://media.giphy.com/media/3o7TKtnuHOHHUjR38Y/giphy.gif" width="18px" /></h3>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bengj10&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bengj10&amp;theme=tokyonight&amp;border=0EA5E9&amp;background=0D1117&amp;stroke=38BDF8&amp;ring=38BDF8&amp;fire=F8D866&amp;currStreakLabel=F8D866" width="70%" alt="GitHub Streak" />
 </p>
 
 <p align="center">
