@@ -35,12 +35,12 @@ bridging software engineering, cloud operations, and machine learning
 
 <h4 align="center">Cloud & Backend Systems</h4>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=aws,docker,linux,jenkins,terraform" height="48" />
+  <img src="https://skillicons.dev/icons?i=aws,linux,docker,kubernetes,jenkins,terraform" height="48" />
 </p>
 
 <h4 align="center">Databases & Data Platforms</h4>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=mysql,postgres,dynamodb" height="48" />
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,dynamodb,hibernate" height="48" />
 </p>
 
 <h4 align="center">Machine Learning & MLOps</h4>
@@ -65,7 +65,7 @@ bridging software engineering, cloud operations, and machine learning
 |---------------|------------|
 | **AWS** Developer Associate | Feb 2029 |
 | **AWS** Solutions Architect Associate | Dec 2028 |
-| **AWS** Cloud Practitioner | Aug 2028 |
+| **AWS** Cloud Practitioner | Dec 2028 |
 
 </div>
 
