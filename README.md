@@ -29,7 +29,7 @@ bridging software engineering, cloud operations, and machine learning
 
 <h4 align="center">Core Expertise</h4>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,golang,cpp,fastapi" height="48" />
+  <img src="https://skillicons.dev/icons?i=java,spring,golang,cpp" height="48" />
 </p>
 
 
@@ -40,7 +40,7 @@ bridging software engineering, cloud operations, and machine learning
 
 <h4 align="center">Databases & Data Platforms</h4>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=mysql,postgres,dynamodb,hibernate" height="48" />
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,dynamodb,hibernate,cassandra" height="48" />
 </p>
 
 <h4 align="center">Machine Learning & MLOps</h4>
