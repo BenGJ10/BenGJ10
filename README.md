@@ -29,7 +29,7 @@ bridging software engineering, cloud operations, and machine learning
 
 <h4 align="center">Core Expertise</h4>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,golang,cpp" height="48" />
+  <img src="https://skillicons.dev/icons?i=java,spring,cpp,golang,scala" height="48" />
 </p>
 
 
