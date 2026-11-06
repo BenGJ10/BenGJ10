@@ -17,7 +17,7 @@ jobs:
       - name: Update Credly badges
         uses: Sagargupta16/credly-badge-readme-action@v1
         with:
-          credly-username: "https://www.credly.com/users/ben-gj"
+          credly-username: "ben-gj"
 
       - name: Commit changes
         run: |
