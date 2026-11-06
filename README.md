@@ -2,7 +2,7 @@
 
 <div align="center">
   <img 
-    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=21&duration=2800&pause=1000&color=36BCF7&center=true&vCenter=true&width=760&lines=Backend+Systems+Engineering;Distributed+Services+%26+APIs;Cloud+Infrastructure+%26+Operations;ML+Pipelines+%26+Data+Platforms" 
+    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=21&duration=2800&pause=1000&color=36BCF7&center=true&vCenter=true&width=760&lines=Backend+Systems+Engineering;Distributed+Services+%26+APIs;Cloud+Infrastructure+%26+Operations;System+Architecture+Design" 
     alt="Typing SVG"
   />
 </div>
@@ -17,13 +17,28 @@ I'm a Backend Systems Engineer
 
 <p align="center">
 I focus on designing systems that move from experimentation to production,<br/>
-bridging software engineering, cloud operations, and machine learning
+bridging software engineering, cloud operations, and industry level production practices.
 </p>
 
 <p align="center">
 ━━━━━━━━━━━━━━━━━━━━
 </p>
 
+
+<h3 align="center">My Certifications </h3>
+
+<div align="center">
+
+
+[![My Credly badges](assets/credly-badges.svg)](https://www.credly.com/users/ben-gj)
+
+
+</div>
+
+
+<p align="center">
+━━━━━━━━━━━━━━━━━━━━
+</p>
 
 <h3 align="center">My Technical Stack</h3>
 
@@ -57,19 +72,6 @@ bridging software engineering, cloud operations, and machine learning
 ━━━━━━━━━━━━━━━━━━━━
 </p>
 
-<h3 align="center">My Certifications </h3>
-
-<div align="center">
-
-
-[![My Credly badges](assets/credly-badges.svg)](https://www.credly.com/users/ben-gj)
-
-
-</div>
-
-<p align="center">
-━━━━━━━━━━━━━━━━━━━━
-</p>
 
 <h3 align="center">My GitHub Stats  <img src="https://media.giphy.com/media/3o7TKtnuHOHHUjR38Y/giphy.gif" width="18px" /></h3>
 
