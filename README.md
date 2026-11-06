@@ -61,17 +61,9 @@ bridging software engineering, cloud operations, and machine learning
 
 <div align="center">
 
-<!-- CREDLY-BADGES:START -->
-🏅 **Industry Certifications**
 
-<div align="center">
+[![My Credly badges](assets/credly-badges.svg)](https://www.credly.com/users/ben-gj)
 
-<a href="https://www.credly.com/badges/85c6383b-91c0-42c1-9cc9-9af68fe21bf9" title="AWS Certified Developer – Associate"><img src="https://images.credly.com/size/100x100/images/b9feab85-1a43-4f6c-99a5-631b88d5461b/image.png" alt="AWS Certified Developer – Associate" width="100" height="100"></a>
-<a href="https://www.credly.com/badges/e507f20c-ad51-4bc9-aed5-720579239d29" title="AWS Certified Solutions Architect – Associate"><img src="https://images.credly.com/size/100x100/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png" alt="AWS Certified Solutions Architect – Associate" width="100" height="100"></a>
-<a href="https://www.credly.com/badges/bf15da50-069f-4f7e-a847-c73a9b985804" title="AWS Certified Cloud Practitioner"><img src="https://images.credly.com/size/100x100/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" alt="AWS Certified Cloud Practitioner" width="100" height="100"></a>
-
-</div>
-<!-- CREDLY-BADGES:END -->
 
 </div>
 
