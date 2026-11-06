@@ -1,30 +1,39 @@
-name: Update Credly Badges
+
+name: Update Credly Badge Card
 
 on:
   schedule:
-    - cron: "0 9 * * 1" # Every Monday at 9 AM UTC
+    - cron: "0 9 * * 1"
   workflow_dispatch:
 
 permissions:
   contents: write
 
 jobs:
-  update-badges:
+  update-card:
     runs-on: ubuntu-latest
-    steps:
-      - uses: actions/checkout@v7
 
-      - name: Update Credly badges
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Generate Credly badge card
         uses: Sagargupta16/credly-badge-readme-action@v1
         with:
           credly-username: "ben-gj"
+          output: svg
+          svg-path: assets/credly-badges.svg
+          svg-groups: two
+          svg-per-row: "3,3"
 
-      - name: Commit changes
+      - name: Commit generated card
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add README.md
+
+          git add assets/credly-badges.svg
+
           if ! git diff --cached --quiet; then
-            git commit -m "chore: update Credly badges"
+            git commit -m "chore: update Credly badge card"
             git push
           fi
