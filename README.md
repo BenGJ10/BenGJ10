@@ -61,11 +61,8 @@ bridging software engineering, cloud operations, and machine learning
 
 <div align="center">
 
-| Certification | Valid Till |
-|---------------|------------|
-| **AWS** Developer Associate | Feb 2029 |
-| **AWS** Solutions Architect Associate | Dec 2028 |
-| **AWS** Cloud Practitioner | Dec 2028 |
+<!-- CREDLY-BADGES:START -->
+<!-- CREDLY-BADGES:END -->
 
 </div>
 
